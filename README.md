@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://Aleksander-Furlan.github.io/projeto-conversor-de-moedas/" target="_blank">
+    <img src="./assets/preview.png" alt="Preview do Conversor de Moedas" width="600"/>
+  </a>
+</p>
+
 <h1 style="color:#8A51FC;">💱 Conversor de Moedas - FurlanDev</h1>
 
 <p>Um conversor de moedas simples e funcional feito com <strong>HTML, CSS e JavaScript</strong>, que permite converter valores entre <strong>Real (BRL)</strong>, <strong>Dólar (USD)</strong>, <strong>Euro (EUR)</strong> e <strong>Libra Esterlina (GBP)</strong> de forma prática e visual.</p>
