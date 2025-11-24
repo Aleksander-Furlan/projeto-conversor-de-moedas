@@ -129,6 +129,7 @@ button {
   <li>Adicionar validação avançada de input.</li>
 </ul>
 
+<br>
 <p align="center">
   <a href="https://Aleksander-Furlan.github.io/projeto-conversor-de-moedas/" target="_blank">
     <img src="./assets/preview.png" alt="Preview do Conversor de Moedas" width="200"/>
