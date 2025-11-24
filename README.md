@@ -132,7 +132,7 @@ button {
 <br>
 <p align="center">
   <a href="https://Aleksander-Furlan.github.io/projeto-conversor-de-moedas/" target="_blank">
-    <img src="./assets/preview.png" alt="Preview do Conversor de Moedas" width="800"/>
+    <img src="./assets/preview.png" alt="Preview do Conversor de Moedas" width="1000"/>
   </a>
 </p>
   
