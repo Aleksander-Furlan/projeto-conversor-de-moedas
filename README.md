@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://Aleksander-Furlan.github.io/projeto-conversor-de-moedas/" target="_blank">
-    <img src="./assets/preview.png" alt="Preview do Conversor de Moedas" width="200"/>
-  </a>
-</p>
+
 
 <h1 style="color:#8A51FC;">💱 Conversor de Moedas - FurlanDev</h1>
 
@@ -132,4 +128,10 @@ button {
   <li>Salvar histórico de conversões.</li>
   <li>Adicionar validação avançada de input.</li>
 </ul>
+
+<p align="center">
+  <a href="https://Aleksander-Furlan.github.io/projeto-conversor-de-moedas/" target="_blank">
+    <img src="./assets/preview.png" alt="Preview do Conversor de Moedas" width="200"/>
+  </a>
+</p>
   
